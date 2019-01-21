@@ -1,9 +1,0 @@
-System design for a web crawler
-
-What does a web crawler does - seed web pages and explore outgoing links
-It does not do search indexing
-
-*might be a good idea to ask if you are involved to do search indexing*
-Page Ranking
-
-1st step - narrow down the features and have 2 - 4 core features
