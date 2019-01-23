@@ -13,3 +13,5 @@ Parser
 Searchy Topics - PageRank and ranking, too tangential to the topic
 
 How to use Distributed Systems to your advantage:
+
+-Have each part of the system be separate and independent 
