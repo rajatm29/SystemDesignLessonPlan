@@ -1,1 +1,12 @@
+Defining our features:
 
+Send and receive messages between two devices
+One-on-One text conversations  with different users
+User can view the time of each message, profile pictures
+
+
+Use Cases:
+Send a message, receive acknowledgement from server
+If receive a message youre online, immediately deliver
+If receive a message and youre offline, wait til you come online
+Get a notification when you receive a message, notified when device is turned on
